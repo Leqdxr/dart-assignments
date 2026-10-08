@@ -1,9 +1,4 @@
 # https://dart.dev/tools/private-files
 # Created by `dart pub`
 .dart_tool/
-area_circle_retry.dart
-array.dart
-calculator.dart
-person.dart
-sum_of_array.dart
 Questions.txt
